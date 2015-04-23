@@ -117,8 +117,8 @@ struct {
 	{   9,     KEY_RIGHT      },
 	{   4,     KEY_DOWN       },
 	{  17,     KEY_UP         },
-	{  27,     KEY_Z          },   // A/Fire/jump/primary
-	{  22,     KEY_X          },   // B/Bomb/secondary
+	{  27,     KEY_X          },   // A/Fire/jump/primary
+	{  22,     KEY_Z          },   // B/Bomb/secondary
 	{  23,     KEY_RIGHTSHIFT },   // Select
 	{  18,     KEY_ENTER      },   // Start 1P
 	// For credit/start/etc., use USB keyboard or add more buttons.
